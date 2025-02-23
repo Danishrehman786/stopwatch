@@ -1,1 +1,1 @@
-https://danishrehman786.github.io/stopwatch/
+https://danisoftdev.github.io/stopwatch/
